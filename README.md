@@ -6,7 +6,7 @@ The code is written in C++ and inputs given using command line arguments. The ar
 
 Instructions for making it to work:<br />
 - Commpile the cpp file using your favourite compiler. g++, GCC was used here.<br />
-- Run the output **./a.out** file with respective **command line arguments** (as shown in screenshot).<br />
+- Run the output **./a.out** file with respective **command line arguments** (as shown in screenshot - Test Cases).<br />
 - In case the first argument is available in second argument (strictly at CAN ID) then the data bytes decoded and printed further.<br />
 
 
